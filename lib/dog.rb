@@ -1,9 +1,9 @@
 class dog 
-  def name 
-    @name 
+  def yama
+    @yama 
 end
 
-def name(yama)
-  @name= yama
+def yama(yama)
+  @yama= yama
 end  
 
