@@ -3,7 +3,8 @@ class person
     @name
   end
   
-  def name(simon)
+  def name=(simon)
     @name=simon
   end
 end  
+
