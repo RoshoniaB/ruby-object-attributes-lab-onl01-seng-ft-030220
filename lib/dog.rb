@@ -6,6 +6,7 @@ class Dog
   def name=(yama)
     @name = yama
   end
+   
    def breed
     @breed
   end
