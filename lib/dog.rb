@@ -3,6 +3,6 @@ class dog
     @name 
 end
 
-def name(name)
+def name(yama)
   @name= name
 end  
