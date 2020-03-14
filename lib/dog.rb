@@ -14,5 +14,3 @@ class Dog
     @breed = pitbull
   end
 end
-
-end
