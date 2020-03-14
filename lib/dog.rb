@@ -3,7 +3,7 @@ class dog
     @yama 
 end
 
-def yama(yama)
+def yama(name)
   @yama= yama
 end  
 
