@@ -3,5 +3,6 @@ class dog
     @name 
 end
 
-def name(Yama)
-  @name= 
+def name(name)
+  @name= name
+end  
