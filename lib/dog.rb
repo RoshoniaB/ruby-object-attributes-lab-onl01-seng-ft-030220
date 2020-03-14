@@ -3,7 +3,7 @@ class Dog
     @name
   end
 
-  def name=(name)
-    @name = name
+  def name=(yama)
+    @name = yama
   end
 end
