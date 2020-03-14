@@ -4,5 +4,6 @@ class dog
 end
 
 def name(yama)
-  @name= name
+  @name= yama
 end  
+
