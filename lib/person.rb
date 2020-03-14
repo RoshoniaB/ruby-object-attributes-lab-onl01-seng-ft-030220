@@ -1,2 +1,9 @@
 class person
-  def 
+  def name
+    @name
+  end
+  
+  def name(simon)
+    @name=simon
+  end
+end  
